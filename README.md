@@ -11,3 +11,7 @@ To run this application:
 ```
 python manage.py runserver
 ```
+hellow
+```
+cd desktop
+```
